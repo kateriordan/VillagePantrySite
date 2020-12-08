@@ -1,0 +1,21 @@
+body{
+  font-family: 'Lato', sans-serif;
+  background-color: #AB0000;
+  font-size: 20px;
+}
+
+h1{
+  font-family: 'Play', sans-serif;
+  color: white;
+  font-size: 40px;
+}
+
+button {
+  font-family: 'Play', sans-serif;
+  width: 170px;
+  height: 45px;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+  margin-left: 8px;
+}
